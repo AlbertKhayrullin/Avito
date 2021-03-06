@@ -1,24 +1,24 @@
 public class AvitoPropertyForSale {
     int id;
-    String URL; //фото
+    String URL;
     int room;
-    String roomComment;  //  -к. квартира,
+    String roomUnit;
     double apartmentArea;
-    String areaComment;   // м2,
+    String areaUnit;
     int floor;
     int floorTotal;
-    String floorComment;  // эт.
+    String floorUnit;
     Boolean favorite;
     int price;
-    String priceComment;   //  Рубли
-    boolean verified;      // проверено ЕГРН
+    String priceUnit;
+    boolean verifiedRegistry;
     String residentialComplex;
     String address;
     String metroStation;
     double distanceToMetro;
-    String distanceComment;     // км.
+    String distanceUnit;
     String agencyName;
-    String URL_emblem;                // логотип агенства недвижимости
+    String URL_emblem;
     int placementTime;
-    String placementTimeComment;   //  минут дней назад
+    String placementTimeUnit;
 }
