@@ -18,7 +18,7 @@ public class AvitoPropertyForSale {
     double distanceToMetro;
     String distanceComment;     // км.
     String agencyName;
-    String URL1;                // логотип агенства недвижимости
+    String URL_emblem;                // логотип агенства недвижимости
     int placementTime;
     String placementTimeComment;   //  минут дней назад
 }
