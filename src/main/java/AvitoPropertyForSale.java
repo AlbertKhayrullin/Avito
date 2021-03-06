@@ -6,7 +6,6 @@ public class AvitoPropertyForSale {
     double apartmentArea;
     String areaComment;   // м2,
     int floor;
-    String floorBetween;   //    17 / 19
     int floorTotal;
     String floorComment;  // эт.
     Boolean favorite;
