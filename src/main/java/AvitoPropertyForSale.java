@@ -1,6 +1,6 @@
 public class AvitoPropertyForSale {
     int id;
-    String URL;
+    String url;
     int room;
     String roomUnit;
     double apartmentArea;
@@ -18,7 +18,7 @@ public class AvitoPropertyForSale {
     double distanceToMetro;
     String distanceUnit;
     String agencyName;
-    String URL_emblem;
+    String urlEmblem;
     int placementTime;
     String placementTimeUnit;
 }
